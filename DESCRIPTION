@@ -12,3 +12,5 @@ LazyData: true
 Imports: 
     gmodels
 RoxygenNote: 7.2.1
+URL: https://github.com/qhwjd246/classifier
+BugReports: https://github.com/qhwjd246/classifier/issues
