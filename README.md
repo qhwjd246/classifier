@@ -23,6 +23,9 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(classifier)
 ## basic example code
+x=matrix(rnorm(100*3), ncol=3)
+lev=pca_leverage(x)
+                 
 ```
 
 What is special about using `README.Rmd` instead of just `README.md`?
